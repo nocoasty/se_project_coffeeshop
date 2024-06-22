@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Utilizing Command Line on Mac and pushing to Git Repositories via SSH connection.
+Utilizing Command Line Interface on Mac and pushing to Git Repositories via SSH connection.
