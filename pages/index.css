@@ -242,14 +242,14 @@
   opacity: 0.7;
 }
 
-.form__fieldset--checkbox {
+.form__fieldset_checkbox {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 0px;
 }
 
-.form__label--checkbox {
+.form__label_checkbox {
   display: flex;
   align-items: center;
   gap: 12px;
