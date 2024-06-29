@@ -1,8 +1,8 @@
 .recipes {
+  background: #0a2750 url("../images/background_recipes.svg") center / contain
+    no-repeat;
   padding: 100px 80px 215px;
-  background-color: #0a2750;
   color: #fff;
-  background: url("../images/background_recipes.svg") center / contain no-repeat;
 }
 
 .recipes__title {
