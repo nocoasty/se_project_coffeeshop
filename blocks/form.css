@@ -1,12 +1,12 @@
 .form {
   max-width: 385px;
+  width: 100%;
 }
 
 .form__fieldset {
   border: none;
   margin: 0 0 32px 0;
   padding: 0;
-  width: 100%;
 }
 
 .form__label {
@@ -37,6 +37,7 @@
   font-weight: 500;
   transition: opacity 0.3s ease;
   margin: 0 0 32px;
+  padding: 0;
   cursor: pointer;
 }
 
@@ -45,15 +46,14 @@
 }
 
 .form__fieldset_checkbox {
+  margin-bottom: 0px;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 0px;
 }
 
 .form__label_checkbox {
   display: flex;
-  align-items: center;
   gap: 12px;
   margin: 0;
 }
